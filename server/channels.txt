@@ -1,0 +1,35 @@
+#international company
+Apple;https://www.youtube.com/user/Apple/videos
+XIAOMIGLOBAL;https://www.youtube.com/user/XIAOMIGLOBAL/videos
+#amazon;https://www.youtube.com/user/amazon/videos
+#AMD;https://www.youtube.com/user/amd/videos
+asus;https://www.youtube.com/user/asus/videos
+vivoglobal;https://www.youtube.com/channel/UCcjTYjZnQcPavBHkzhWdkWg/videos
+Boeing;https://www.youtube.com/user/Boeing/videos
+Dell;https://www.youtube.com/user/DellVlog/videos
+#haier;https://www.youtube.com/user/haieramerica/videos
+Honor;https://www.youtube.com/channel/UC2v9iAMYFDY-_eNw3t0W4-Q/videos
+#HP;https://www.youtube.com/user/hpcomputers/videos
+HP Business;https://www.youtube.com/user/Apple/videos
+HTC;https://www.youtube.com/user/HTC/videos
+Huawei mobile;https://www.youtube.com/user/HuaweiDeviceCo/videos
+#IBM;https://www.youtube.com/user/IBM/videos
+intel;https://www.youtube.com/user/channelintel/videos
+#KUKA;https://www.youtube.com/user/KukaRobotGroup/videos
+#lenovo;https://www.youtube.com/user/LenovoVision/videos
+#lenovo2;https://www.youtube.com/user/LenovoDeutschland/videos
+LG Global;https://www.youtube.com/user/LGHomeAppliance/videos
+LG Home;https://www.youtube.com/channel/UCAxuf-vrbVcjqnMXL4bccgA/videos
+LG Mobile Global;https://www.youtube.com/user/LGMobileHQ/videos
+Mi;https://www.youtube.com/user/XiaomiChina/videos
+Microsoft Surface;https://www.youtube.com/user/surface/videos
+#MiJia-Ukraine;https://www.youtube.com/channel/UCD29pHjDRrdlTN0QYAQ3c6Q/videos
+OPPO;https://www.youtube.com/user/OppoOfficial/videos
+#Philips Healthcare;https://www.youtube.com/user/PhilipsHC/videos
+Samsung;https://www.youtube.com/user/SamsungMobile/videos
+Samsung US;https://www.youtube.com/user/samsungmobileusa/videos
+Sony;https://www.youtube.com/user/sonyelectronics/videos
+#Sony | Camera Channel;https://www.youtube.com/channel/UC7McIsZ7v-RdLedtk6d6zRg/videos
+#Sony Xperia;https://www.youtube.com/user/SonyXperia/videos
+#General Electric;https://www.youtube.com/user/GE/videos
+#Airbar;https://www.youtube.com/channel/UC91kosYdcvVwggWoqnpyWMQ/videos

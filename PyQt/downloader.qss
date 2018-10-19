@@ -1,0 +1,265 @@
+
+/*当qss存在错误时，错误后面的style将会解析失败，但并没有提醒*/
+
+QWidget{
+	font-family: "微软雅黑";
+}
+
+QTabWidget::pane{
+
+	background: rgba(200,200,200,1%);
+/*	background: transparent;*/
+	border:0px;
+
+}
+
+/*QTabWidget::tab-bar{
+	width: 300;
+	height: 35;
+	background:rgba(150,150,150,5%);
+	border-top-width: 3px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-bottom-width: 0px;
+	border-color: white;
+
+}
+*/
+/*QTabWidget::tab-bar:selected{
+	width: 300;
+	height: 35;
+	background:rgba(150,150,150,50%);
+	border-top-width: 3px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-bottom-width: 0px;
+	border-color: white;
+	padding:5px,10px,5px,10px;
+	font-size: 15px;
+}*/
+QTabBar::tab{
+	width: 100;
+	height: 25;
+	background:rgba(117,117,122,70%);
+	border-top-width: 3px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-bottom-width: 0px;
+	border-color: white;
+	padding:5px,10px,5px,10px;
+	font-size: 15px;
+}
+QTabWidget::tab:selected{
+	width: 100;
+	height: 25;
+	background:rgba(197,197,201,70%);
+	border-top-width: 3px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-bottom-width: 0px;
+	border-color: white;
+	padding:5px,10px,5px,10px;
+	font-size: 15px;
+}
+
+
+/***************main widget*****************/
+QLabel#lab_empty{
+		height:80px;
+}
+
+QLineEdit#video_url{
+	height: 36px;
+	background: rgba(200,200,200,1%);
+	border-width: 2px;
+	border-color:gray;
+	color:white;
+}
+QLineEdit#video_url:hover{
+	border-width: 4px;
+	border-color:rgba(1,136,251,70%);
+}
+
+QPushButton#tips{
+	height: 50px;
+	background: rgba(255,255,255,1%);
+	color:white;
+	border:0px 0px 0px 0px;
+}
+
+QPushButton#join_us{
+	height: 42px;
+	background:rgba(197,197,201,70%);
+	border:0px 0px 0px 0px;
+}
+
+QLabel#software_tip{
+	color:white;
+	border:0px 0px 0px 0px;
+	/*font-color:white;*/
+	font-size: 16px;
+}
+
+QPushButton[name="btn_his"]{
+	color:white;
+	border:0px 0px 0px 0px;
+}
+
+QPushButton[name="btn_his"]::hover{
+	background-image: image url(components/icon.png);
+	border:0px 0px 0px 0px;
+}
+
+QLable[name="lab_his"]{
+	color:white;
+	border:0px 0px 0px 0px;
+}
+
+/******************download widget********************/
+
+/**QScrollArea*/
+QTabWidget#download_tab > QWidget{
+	background: rgba(0,0,100,50%);
+}
+QTabWidget#download_tab > QWidget:hover{
+	background: rgba(0,0,200,50%);
+}
+
+QTabWidget#download_tab::tab-bar{
+	background:rgb(0,150,150,30%);
+}
+
+QTabWidget#download_tab::pane{
+	background:rgb(150,150,150,20%);
+}
+
+QScrollArea{
+	border:0px;
+	background: rgba(255,255,255,0%);
+}
+QScorllArea::down-button{
+	border-image: url(components/spinbox-down.png)
+}
+QScorllArea::up-button{
+	border-image: url(components/spinbox-up.png)
+}
+QScorllArea::handle{}
+QScorllArea::sub-page{}
+QScorllArea::sub-line{}
+QScorllArea::add-page{}
+QScorllArea::add-line{}
+
+QWidget[name='video_tips_widget']{
+	border:0px;
+	background: rgba(0,150,255,7%);
+}
+
+
+
+QLabel#title{
+	color:white;
+	font-size:14px;
+}
+
+QLabel#path{
+	border:0px;
+	color:gray;
+	font-size: 11px;
+}
+
+QLabel#time{
+	border:0px;
+	color:gray;
+	font-size: 12px;
+}
+
+QLabel#video_icon{
+	background-image: url(components/icon.png);
+}
+
+QPushButton#close_btn{
+	border:0px;
+/*	border-image: url(components/close-4.png) -3 -10 -3 -10;
+	border-top: -3px transparent;
+    border-bottom: -3px transparent;
+    border-right: -10px transparent;
+    border-left: -10px transparent;*/
+}
+
+QPushButton#redownload_btn{
+	border:0px;
+	width:48px;
+	height:48px;
+	background-image: url(components/icon.png);
+}
+
+
+
+/*****************setting widget********************/
+
+QLabel[name='lab']{
+	background: rgba(0,0,0,1%);
+	border:0px;
+	color:white;
+	font-size: 18px;
+	text-align: center;
+
+}
+
+QCheckBox[name='check']{
+	border:0px;
+	background: rgba(0,0,0,1%);
+	font-size: 14px;
+	color:white;
+}
+QCheckBox[name='check']::indicator:unchecked{
+	background-image: image url(components/icon.png);
+}
+QCheckBox[name='check']::indicator:checked{
+	background-image: image url(components/icon.png);
+}
+
+QLineEdit#line_3{
+	height: 50px;
+	width:100px;
+	border-bottom-width: 3px;
+	background: rgba(150,150,150,1%);
+	color:white;
+
+}
+
+QPushButton{
+	height:25px;
+	width:70px;
+	border:0px;
+	background:rgba(150,150,150,50%);
+
+}
+QPushButton:hover{
+	background:rgba(220,220,220,50%);
+}
+
+QPushButton[name='btn']{
+	height: 50px;
+	width:100px;
+}
+
+QSpinBox{
+	background: rgba(200,200,200,50%);
+	width:65px;
+	border:0px;
+	color:whiite;
+	/*font-color:white;*/
+}
+QSpinBox:hover{
+	background: rgba(200,200,200,70%);
+	border-width: 3px;
+	border-color: blue;
+
+}
+QSpinBox::down-button{
+	background-image: image url(components/spinbox-down.png);
+}
+QSpinBox::up-button{
+	background-image: image url(components/spinbox-up.png);
+}

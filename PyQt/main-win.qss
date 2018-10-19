@@ -1,0 +1,151 @@
+/*************** global ****************/
+
+QWidget{
+}
+
+
+QPushButton{
+	background-color:rgba(200,200,200,70%);
+	/*border-width:0px;*/
+	border-right: 0px;
+	border-left: 0px;
+	border-bottom: 0px;
+/*	border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    border-top-left-radius:5px;
+	border-top-right-radius:5px;*/
+	border-top-color: white;
+	border-top-width: 3px;
+	margin-top:2px;
+	margin-right:0px;
+	margin-bottom:2px;
+	margin-left:0px;
+	padding-top:2px;
+    padding-right:2px;
+    padding-bottom:2px;
+    padding-left:2px;
+	font-family: "微软雅黑";
+	font-size:12px;
+	text-align:center;
+}
+QPushButton:pressed{
+	background-color: red;
+}
+QPushButton:hover{
+
+}
+
+QLabel{
+	border-width: 0px;
+    color: white;
+	font-family: "微软雅黑";
+	font-size:13px;
+	text-align:center;
+}
+
+
+/*************** top layout **************/
+QPushButton#user_info{
+	border-image: url(components/close.png)
+}
+QPushButton#minimize{
+	border-image: url(components/close.png)
+}
+QPushButton#close{
+	border-image: url(components/close.png)
+}
+
+
+/*************** middle layout *************/
+QTableView{
+	background: rgba(127,127,127,40%);
+	font-family: "微软雅黑";
+	font-size:12px;
+	text-align: left;
+}
+
+QTextEdit{
+	background: rgba(127,127,127,40%);
+	color:gray;
+	font-family: "微软雅黑";
+	font-size:12px;
+	text-align: left;
+}
+
+QLineEdit{
+	border:0px;
+	background: rgba(127,127,127,20%);
+	color:black;
+	font-family: "微软雅黑";
+	font-size:15px;
+	text-align: left;
+}
+QLineEdit#line_title{
+
+}
+QLineEdit['line','label']{
+
+}
+
+QComboBox{
+	background:rgba(220,220,220,100%);
+	border:0px;
+}
+QComboBox::down-arrow{
+	border-image: url(components/close.png)
+}
+QComboBox::drop-arrow{
+	border-image: url(components/close.png)
+}
+
+QCheckBox{}
+QCheckBox::indicator:checked{}
+QCheckBox::indicator:unchecked{}
+
+QPushButton['btn','submit']{
+
+}
+
+
+/*************** bottom layout ****************/
+QLabel#{
+
+}
+
+QTextBrowser{
+	background: rgba(0,50,150,90%);
+	font-family: '';
+	font-size:11px;
+}
+
+
+/*************** setting ***************/
+QLabel['lab','main']{
+	font-size:18px;
+	color:rgb(180,180,180);
+}
+QLabel['lab','sub']{
+	font-size:12px;
+	color:white;
+}
+
+QLineEdit['line','sub']{
+	
+}
+
+QPushButton['btn','sub']{
+
+}
+
+QCheckButton['com','sub']{
+
+}
+
+QSpineBox['spin','sub']{
+
+}
+
+QComboBox['com','sub']{
+
+}
+

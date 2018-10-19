@@ -1,0 +1,128 @@
+/*qss template*/
+
+/*Buttons*/
+QPushButton{}
+QToolButton{}       (menu-arrow,menu-button,menu-indicator,tab)
+QRadioButton{}      (indicator)
+QCheckBox{}         (indicator)
+/* QCommandLinkButton{}
+QDialogButtonBox{} */
+
+/*Item Views*/
+QListView{}
+QTreeView{}         (branch)[adjoins-item]
+QTableView{}
+QColumnView{}
+
+/*Item Widgets*/
+QListWidget{}
+QTreeWidget{}
+QTableWidget{}
+
+/*Containers*/
+QGroupBox{}         (indicator,title)
+/* QScrollArea{} */
+QToolBox{}
+QTabWidget{}        (left-corner,right-corner,tab-bar,pane)
+/* QStackedWidget{} */
+QFrame{}
+QWidget{}
+/* QMDIArea{} */
+QDockWidget{}       (close-button,float-button,title)
+/* QAxWidget{} */
+
+/*Input Widgets*/
+QComboBox{}         (down-arrow,drop-down)[editable]
+/* QFontComboBox{} */
+QLineEdit{}
+QTextEdit{}
+/* QPlainTextEdit{} */
+QSpinBox{}          (down-arrow,down-button,up-arrow,up-button)
+QDoubleSpinBox{}
+QTimeEdit{}
+QDataTimeEdit{}
+QDataEdit{}
+/* QDial{} */
+/* QHorizontalScrollBar{}
+QVerticalScrollBar{}
+QHorizontalSlider{}
+QVerticalSlider{}
+QKeySequenceEdit{} */
+
+/*Display Widgets*/
+QLabel{}
+/*QTextBrowser{}
+QGraphicsView{}
+QCalendarWidget{}
+QLCDNumber{} */
+QProgressBar{}      (chunk)
+/* QHorizontalLine{}
+QVerticalLine{}
+QOpenGLWidget{}
+QQuickWidget{}
+QWebEngineView{} */
+
+/**/
+??? QAbstractitemView{}         (indicator,icon,item,text)[alternate]
+QAbstractScrollArea{}       (corner)
+QDialog{}
+QDialogButtonBox{}
+QHeaderView{}               (down-arrow,section,up-arrow)
+QMainWindow{}               (separator)
+QMenu{}         (indicator,icon,item,right-arrow,scroller,separator,tearoff)
+QMenuBar{}      (item)
+QMessageBox{}
+QScrollBar{}    (add-line,add-page,down-arrow,down-button,handle,left-arrow,right-arrow,sub-line,sub-page,up-arrow)
+QSizeGrip{}
+QSlider{}       (groove,handle)
+QSplitter{}     (handle)
+QStatusBar{}    (item)
+QTabBar{}       (close-button,scroller,tab,tear)
+QToolBar{}
+QToolTip{}
+
+
+/*#############Pseudo-States###############*/
+active
+disabled
+enabled
+hover
+pressed
+selected
+
+/**/
+bottom
+checked
+closable
+closed
+default
+edit-focus
+exclusive
+first
+flat
+focus
+has-children
+has-siblings
+horizontal
+indeterminste
+last
+left
+maximized
+middle
+mimimized
+movable
+no-frame
+non-exclusive
+off
+on
+only-one
+open
+next-selected
+previous-selected
+read-only
+right
+top
+unchecked
+vertical
+window
+

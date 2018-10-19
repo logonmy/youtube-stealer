@@ -1,0 +1,84 @@
+#international company
+Apple;https://www.youtube.com/user/Apple/videos
+XIAOMIGLOBAL;https://www.youtube.com/user/XIAOMIGLOBAL/videos
+amazon;https://www.youtube.com/user/amazon/videos
+AMD;https://www.youtube.com/user/amd/videos
+asus;https://www.youtube.com/user/asus/videos
+vivoglobal;https://www.youtube.com/channel/UCcjTYjZnQcPavBHkzhWdkWg/videos
+Boeing;https://www.youtube.com/user/Boeing/videos
+Dell;https://www.youtube.com/user/DellVlog/videos
+#haier;https://www.youtube.com/user/haieramerica/videos
+Honor;https://www.youtube.com/channel/UC2v9iAMYFDY-_eNw3t0W4-Q/videos
+#HP;https://www.youtube.com/user/hpcomputers/videos
+HP Business;https://www.youtube.com/user/Apple/videos
+HTC;https://www.youtube.com/user/HTC/videos
+Huawei mobile;https://www.youtube.com/user/HuaweiDeviceCo/videos
+#IBM;https://www.youtube.com/user/IBM/videos
+intel;https://www.youtube.com/user/channelintel/videos
+#KUKA;https://www.youtube.com/user/KukaRobotGroup/videos
+lenovo;https://www.youtube.com/user/LenovoVision/videos
+lenovo2;https://www.youtube.com/user/LenovoDeutschland/videos
+LG Global;https://www.youtube.com/user/LGHomeAppliance/videos
+LG Home;https://www.youtube.com/channel/UCAxuf-vrbVcjqnMXL4bccgA/videos
+LG Mobile Global;https://www.youtube.com/user/LGMobileHQ/videos
+Mi;https://www.youtube.com/user/XiaomiChina/videos
+Microsoft Surface;https://www.youtube.com/user/surface/videos
+MiJia-Ukraine;https://www.youtube.com/channel/UCD29pHjDRrdlTN0QYAQ3c6Q/videos
+OPPO;https://www.youtube.com/user/OppoOfficial/videos
+#Philips Healthcare;https://www.youtube.com/user/PhilipsHC/videos
+Samsung;https://www.youtube.com/user/SamsungMobile/videos
+Samsung US;https://www.youtube.com/user/samsungmobileusa/videos
+Sony;https://www.youtube.com/user/sonyelectronics/videos
+Sony | Camera Channel;https://www.youtube.com/channel/UC7McIsZ7v-RdLedtk6d6zRg/videos
+Sony Xperia;https://www.youtube.com/user/SonyXperia/videos
+#General Electric;https://www.youtube.com/user/GE/videos
+#Airbar;https://www.youtube.com/channel/UC91kosYdcvVwggWoqnpyWMQ/videos
+
+#science
+NASA;https://www.youtube.com/user/NASAtelevision/videos
+American Museum of Nature History;https://www.youtube.com/user/AMNHorg/videos
+Weekly Treasure;https://www.youtube.com/user/advexon/videos
+FestoHQ;https://www.youtube.com/user/FestoHQ/videos
+Thoisoi2;https://www.youtube.com/user/TheThoisoi2/videos
+The B1M;https://www.youtube.com/user/TheB1MLtd/videos
+Scientific Animations;https://www.youtube.com/user/ScientificAnimation/videos
+Science;https://www.youtube.com/user/ScienceMag/videos
+Sci-Inspi;https://www.youtube.com/channel/UCDFxr_sWV8mAnxV-ShVfHog/videos
+Nucleus Medical Media;https://www.youtube.com/user/nucleusanimation/videos
+natural;https://www.youtube.com/user/NatureVideoChannel/videos
+Massachusetts Institute;https://www.youtube.com/user/MITNewsOffice/videos
+Hashem Al-Ghaili;https://www.youtube.com/user/hashemalghaili/videos
+Deep Look;https://www.youtube.com/user/KQEDDeepLook/videos
+Harry Evett;https://www.youtube.com/channel/UCiLD9i3O8tY5d-LyQ1GxsTQ/videos
+
+#develop
+Unity;https://www.youtube.com/user/Unity3D/videos
+Two Minute Papers;https://www.youtube.com/user/keeroyz/videos
+
+#DIY
+diy01;https://www.youtube.com/user/mist8k/videos
+JohnnyQ90;https://www.youtube.com/user/johnnyq90/videos
+
+#computer effect
+Olav3D Tutorials;https://www.youtube.com/channel/UCD0GTet7PkOuVH26nrfeNfA/videos
+TheCGBro;https://www.youtube.com/user/TheCGBro/videos
+Avnish Parker;https://www.youtube.com/user/avnishparker/videos
+
+
+#trval
+beautiful destinations;https://www.youtube.com/channel/UC08NS8fyPpkYgnhj69fMXLg/videos
+Primitive Technology;https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos
+National Geographic;https://www.youtube.com/user/NationalGeographic/videos
+
+#others
+US military Technology;https://www.youtube.com/channel/UCpoF7JgI3Jda_7V2uZziwZg/videos
+Largest Dams;https://www.youtube.com/user/itsd3000/videos
+Seeker;https://www.youtube.com/user/DNewsChannel/videos
+Quantum Tech HD;https://www.youtube.com/channel/UC4Tklxku1yPcRIH0VVCKoeA/videos
+Latest Tech;https://www.youtube.com/channel/UCWBES10n3A9sDN5HxVrrNuA/videos
+
+# entertainment
+againstthecurrentNY;https://www.youtube.com/channel/UCxMsgwldMZiuFTD6jjv32yQ
+LOL;https://www.youtube.com/user/RiotGamesInc/videos
+PUBG;https://www.youtube.com/channel/UCnXDQbqIdp-HQuDyM4p12ng/videos
+PUBG TV;https://www.youtube.com/channel/UCXQ_4o9suWlKtAUUfqn9I5Q/videos
