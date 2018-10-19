@@ -7,7 +7,7 @@ download edit upload youtube videos in ONE
 
 2.download the video with pytube
 
-* 3.add title
+3.add subtitle*
 
 ## Client
 1.synchronize server downloaded videos and videos info to client
