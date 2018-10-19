@@ -3,8 +3,10 @@ download edit upload youtube videos in ONE
 
 
 ## Server
-1.Using BeautifuSoup grab videos' url from given webpage /n
-2.download the video with pytube /n
+1.Using BeautifuSoup grab videos' url from given webpage
+
+2.download the video with pytube
+
 * 3.add title
 
 ## Client
